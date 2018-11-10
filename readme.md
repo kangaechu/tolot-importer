@@ -21,7 +21,7 @@ Google Chrome
 
 #### ダウンロード
 
-https://github.com/kangaechu/tolot_importer/releases/ から最新の tolot_importer_windows.zip をダウンロード
+https://github.com/kangaechu/tolot-importer/releases から最新の project_windows_amd64.exe をダウンロード
 
 #### 設定ファイルの作成
 
