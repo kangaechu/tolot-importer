@@ -19,6 +19,7 @@ jobs:
       - GOPATH: /home/circleci/go
     docker:
      - image: circleci/golang:1.11
+    working_directory: /home/circleci/go/src/github.com/kangaechu/tolot_importer
     steps:
       - run: echo 'export PATH=${GOPATH}/bin/:${PATH}' >> $BASH_ENV
       - checkout
