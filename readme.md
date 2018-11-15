@@ -1,6 +1,8 @@
 tolot_importer
 ====
 
+[![CircleCI](https://circleci.com/gh/kangaechu/tolot-importer.svg?style=svg)](https://circleci.com/gh/kangaechu/tolot-importer)
+
 [tolot](https://tolot.com)の連絡帳インポーター
 
 ## Description
